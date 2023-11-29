@@ -19,5 +19,4 @@ Skills: PHP / REACT / JS / HTML / CSS/ SQL DATABASE/REACT FRONTEND DEVELOP BY RE
 
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/iammushfique)  
 
